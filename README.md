@@ -23,7 +23,7 @@
 
 - 🎓 **Software Engineering Student** at IUH (2020-2025) 
 - 📧 This is my profile: **https://protfolio-lehuubang.netlify.app**
-- 📍 Location: **Phan Van Tri, Go Vap, Ho Chi Minh**
+- 📍 Location: **Tan Phu, Ho Chi Minh**
 
 - 🚀 Frontend
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /> <img src="https://skillicons.dev/icons?i=figma" /> </div>
@@ -80,7 +80,7 @@ Vietnamese chat application inspired by Zalo with modern messaging features.
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bthope&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lehuubang-dev&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </div>
 
 ## 🌐 Connect With Me
